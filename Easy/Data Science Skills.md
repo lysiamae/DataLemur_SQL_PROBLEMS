@@ -15,7 +15,7 @@ Write a query to list the candidates who possess all of the required skills for 
 
 
 
-####  page_likes Example Input
+#### candidates Example Input
 | candidate_id    | skill|
 | ----------- | ----------- | 
 |123 | Python|
