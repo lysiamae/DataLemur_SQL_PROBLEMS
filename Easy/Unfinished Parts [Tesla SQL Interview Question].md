@@ -14,7 +14,7 @@
 | finish_date | datetime    |
 | assembly_step | integer |
 
-####  page_likes Example Input
+####  parts_assembly Example Input
 |part    | finish_date | assembly_step |
 | ----------- | ----------- | ----------- |
 | battery  | 01/22/2022 00:00:00   | 1 |
