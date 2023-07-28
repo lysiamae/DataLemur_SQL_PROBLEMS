@@ -42,5 +42,5 @@ GROUP BY user_id)
 SELECT user_id, days_between FROM T 
 where days_between !=0;
 ```
-MAX() AND MIN() can be used to obtain the last and first post_date. Since the post_date is in timestamp format we must use EXTRACT() to get the days between the last and first post_date of a certain user.The GROUP BY statement ensure that the MIN() AND MAX() post_date will be evaluated for each user, not for the whole column.
+MAX() AND MIN() can be used to obtain the last and first post_date. Since the post_date is in timestamp format we must use EXTRACT() to get the days between the last and first post_date of a certain user.The GROUP BY statement ensure that the MIN() AND MAX() post_date will be evaluated for each user and not for the whole column.
 
