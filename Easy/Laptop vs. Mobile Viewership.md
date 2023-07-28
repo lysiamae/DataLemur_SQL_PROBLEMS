@@ -5,7 +5,7 @@ Assume you're given the table on user viewership categorised by device type wher
 
 Write a query that calculates the total viewership for laptops and mobile devices where mobile is defined as the sum of tablet and phone viewership. Output the total viewership for laptops as laptop_reviews and the total viewership for mobile devices as mobile_views.
 
-#### Table: tweets
+#### Table: viewership
 |Column Name    | Type |
 | ----------- | ----------- |
 | user_id   | integer    |
@@ -13,7 +13,7 @@ Write a query that calculates the total viewership for laptops and mobile device
 | view_time | timestamp |
 
 
-####  page_likes Example Input
+####  viewership Example Input
 | user_id    | device_type | view_time | 
 | ----------- | ----------- | ----------- |
 |123|	tablet|	01/02/2022 00:00:00 |
