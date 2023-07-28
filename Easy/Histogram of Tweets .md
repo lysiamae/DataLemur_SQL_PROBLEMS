@@ -13,7 +13,7 @@ In other words, group the users by the number of tweets they posted in 2022 and 
 | msg | string |
 | tweet_date | timestamp|
 
-####  page_likes Example Input
+####  tweets Example Input
 |tweet_id    | user_id | msg | tweet_date |
 | ----------- | ----------- | ----------- | ----------- |
 | 214252  | 111   | Am considering taking Tesla private at $420. Funding secured. | 12/30/2021 00:00:00 |
