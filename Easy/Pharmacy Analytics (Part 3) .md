@@ -7,8 +7,6 @@ Write a query to calculate the total drug sales for each manufacturer. Round the
 
 Since this data will be displayed on a dashboard viewed by business stakeholders, please format your results as follows: "$36 million".
 
-If you like this question, try o
-
 #### Table: pharmacy_sales
 |Column Name|	Type|
 | ---- | ----|
