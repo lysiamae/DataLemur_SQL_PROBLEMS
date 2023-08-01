@@ -21,7 +21,7 @@ Calculate the following percentages:
 |time_spent|	float|
 |activity_date|	datetime|
 
-#### transactions Example Input:
+#### activities Example Input:
 |activity_id|	user_id	|activity_type|	time_spent|	activity_date|
 |-----|-----|-----|----|----|
 |7274|	123	|open|	4.50|	06/22/2022 12:00:00|
