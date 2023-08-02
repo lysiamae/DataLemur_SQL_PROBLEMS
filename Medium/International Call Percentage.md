@@ -70,4 +70,4 @@ SELECT
 FROM CALLS;
 ```
 
-
+We aliased the table phone_info twice to obtain the caller country and receiver country separately. The first aliasing was done to relate the caller id in table phone_calls to the caller id in table phone_info. The second aliasing was done to relate the receiver id in table phone_calls to the caller_id in the table phone_info. We see that we have to use LEFT JOIN to attain our goal to separate the receiver from the caller.
