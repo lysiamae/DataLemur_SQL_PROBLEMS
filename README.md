@@ -1,5 +1,4 @@
 # DataLemur SQL Problems Solutions
 
-#### Overview
-This repository contains my solutions for the SQL challenges posted on the DataLemur website.
+This repository contains my solutions for the SQL challenges posted on the DataLemur website. The solutions are executed on PostgreSQL environment in DataLemur website.
 
