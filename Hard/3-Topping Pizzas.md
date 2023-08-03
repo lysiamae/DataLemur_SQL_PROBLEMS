@@ -13,7 +13,7 @@ Notes:
 - Do not display pizzas where a topping is repeated. For example, ‘Pepperoni,Pepperoni,Onion Pizza’.
 - Ingredients must be listed in alphabetical order. For example, 'Chicken,Onions,Sausage'. 'Onion,Sausage,Chicken' is not acceptable.
 
-####Table: pizza_toppings 
+#### Table: pizza_toppings 
 |Column Name| Type|
 |----|----|
 |topping_name|	varchar(255)
