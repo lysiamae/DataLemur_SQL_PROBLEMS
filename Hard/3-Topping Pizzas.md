@@ -19,7 +19,7 @@ Notes:
 |topping_name|	varchar(255)
 |ingredient_cost|	decimal(10,2)
 
-####pizza_toppings Example Input:
+#### pizza_toppings Example Input:
 |topping_name|	ingredient_cost|
 |-----|----|
 |Pepperoni|	0.50
